@@ -1,5 +1,5 @@
 <p align="Center" ><img src="https://media.giphy.com/media/Ah9vTPGM6xLveTK2Pk/giphy.gif" height="250px" width ="250px"></p>
-<h1 align="Center">  Hi There <img src="https://media.giphy.com/media/AstG9R5P41eqV80ggV/giphy.gif" height="40px" width="40px"> , I'm Raenaldi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
+<h1 align="Center">  Hi There <img src="https://media.giphy.com/media/mFxZ4PYNKJaxxdV1SM/giphy.gif" height="40px" width="50px"> , I'm Raenaldi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
